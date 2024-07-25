@@ -1,0 +1,1 @@
+This new file aims to test the functionality of the Typora's together with the Github.
